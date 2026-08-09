@@ -15,7 +15,7 @@ public class HomePage extends Application{
     @Override
     public void start(Stage myStage) throws Exception {
     
-        Text text1 = new Text("Welcome to Javafx");
+        Text text1 = new Text("Welcome to Javafx gitproject");
         text1.setStyle("-fx-fill: white; -fx-font-size: 48px; -fx-font-weight: bold");
 
   
